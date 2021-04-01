@@ -9,4 +9,4 @@ def get_system_ticket(system_user_token: str, contextId: str, client_secret: str
     :return: the system ticket used to cnnect to the SuperOffice REST API's.
     """
     
-    return 0
+    return 1
