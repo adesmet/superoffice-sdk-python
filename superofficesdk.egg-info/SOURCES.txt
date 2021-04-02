@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+setup.py
+superofficesdk/__init__.py
+superofficesdk/myfunctions.py
+superofficesdk.egg-info/PKG-INFO
+superofficesdk.egg-info/SOURCES.txt
+superofficesdk.egg-info/dependency_links.txt
+superofficesdk.egg-info/top_level.txt
+tests/__init__.py
+tests/test_myfunctions.py

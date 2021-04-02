@@ -1,11 +1,11 @@
 README.md
 pyproject.toml
 setup.py
-superoffice-sdk-python/__init__.py
-superoffice-sdk-python/myfunctions.py
 superoffice_sdk_python.egg-info/PKG-INFO
 superoffice_sdk_python.egg-info/SOURCES.txt
 superoffice_sdk_python.egg-info/dependency_links.txt
 superoffice_sdk_python.egg-info/top_level.txt
+superofficesdk/__init__.py
+superofficesdk/myfunctions.py
 tests/__init__.py
 tests/test_myfunctions.py
