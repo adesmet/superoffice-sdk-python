@@ -12,7 +12,7 @@ twine = "^3.4.1"
 suds-jurko = "^0.6"
 pyOpenSSL = "^20.0.1"
 jwt = "^1.2.0"
-pycryptodome = "^3.10.1"
+pycryptodomex = "^3.10.1"
 
 [tool.poetry.dev-dependencies]
 
