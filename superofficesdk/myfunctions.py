@@ -1,3 +1,4 @@
+#token: VFSSOClient-qM8IzmEUb2
 def get_system_ticket(system_user_token: str, contextId: str, client_secret: str, partner_private_key: str, superoffice_public_key: str) -> str:
     """
     Exchange a long-lived system user token for a short-lived system ticket, which can be used to call the SuperOffice REST API's. 
