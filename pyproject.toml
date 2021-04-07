@@ -9,6 +9,10 @@ python = "^3.8"
 wheel = "^0.36.2"
 setuptools = "^54.2.0"
 twine = "^3.4.1"
+suds-jurko = "^0.6"
+pyOpenSSL = "^20.0.1"
+pycryptodome = "^3.10.1"
+jwt = "^1.2.0"
 
 [tool.poetry.dev-dependencies]
 
